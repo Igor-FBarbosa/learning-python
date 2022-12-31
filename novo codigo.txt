@@ -1,3 +1,7 @@
 linha versão 1
+<<<<<<< HEAD
 
 ola meu nome é Igor Barbosa
+=======
+linha versao 2
+>>>>>>> 04fd76c36e4f9b285002e0fbf697994b14a2c0ed
